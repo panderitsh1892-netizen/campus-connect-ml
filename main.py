@@ -6,6 +6,8 @@ from collections import defaultdict
 from src.analyze import find_isolated_students
 from src.explain import explain_match
 from src.icebreaker import generate_icebreaker
+from src.mentor import find_mentors
+from src.graph import build_graph   
 
 # Load data
 data = load_data("data/students.json")
@@ -60,4 +62,24 @@ isolated = find_isolated_students(vectors)
 print("\nIsolated Students:\n")
 
 for idx, score in isolated:
-    print(f"Student {data[idx]['id']} | Avg Similarity: {score:.2f}")    
+    print(f"Student {data[idx]['id']} | Avg Similarity: {score:.2f}")
+
+# ------------------ MENTOR MATCHING ------------------
+
+mentors = find_mentors(data, user_index)
+
+print("\nRecommended Mentors:\n")
+
+if mentors:
+    for m in mentors:
+        print(f"Mentor Student ID: {m}")
+else:
+    print("No suitable mentors found")
+
+# ------------------ GRAPH NETWORK ------------------
+
+graph = build_graph(vectors)
+
+print("\nGraph Stats:\n")
+print("Nodes:", graph.number_of_nodes())
+print("Edges:", graph.number_of_edges())

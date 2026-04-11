@@ -18,6 +18,9 @@ bios = [
     "Always curious and eager to learn"
 ]
 
+years = ["1st", "2nd", "3rd", "4th"]
+goals_pool = ["ML", "Web Dev", "Data Science", "Design"]
+
 def generate_student(id):
     return {
         "id": id,
@@ -26,7 +29,9 @@ def generate_student(id):
         "music": random.sample(music_pool, k=1),
         "movies": random.sample(movies_pool, k=1),
         "personality": random.choice(personality_pool),
-        "bio": random.choice(bios)
+        "bio": random.choice(bios),  # ✅ FIXED (comma added)
+        "year": random.choice(years),
+        "goals": random.sample(goals_pool, k=1)
     }
 
 def generate_dataset(n=100):

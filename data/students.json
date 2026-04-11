@@ -2,392 +2,242 @@
   {
     "id": 1,
     "skills": [
-      "ML",
+      "Data Science",
       "DSA"
     ],
     "interests": [
-      "Gaming",
-      "Sports"
+      "Poetry",
+      "Gaming"
     ],
     "music": [
-      "Classical"
+      "Bollywood"
     ],
     "movies": [
-      "Comedy"
+      "Sci-fi"
     ],
-    "personality": "Extrovert",
-    "bio": "Always curious and eager to learn"
+    "personality": "Ambivert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
     "id": 2,
     "skills": [
-      "Web Dev",
-      "Python"
+      "Python",
+      "Design"
     ],
     "interests": [
-      "Sports",
-      "Gaming"
+      "Music",
+      "Movies"
     ],
     "music": [
       "Classical"
     ],
     "movies": [
-      "Action"
+      "Sci-fi"
     ],
-    "personality": "Extrovert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "personality": "Ambivert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "4th",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
     "id": 3,
     "skills": [
-      "ML",
-      "DSA"
+      "Web Dev",
+      "Design"
     ],
     "interests": [
-      "Music",
-      "Poetry"
+      "Sports",
+      "Movies"
     ],
     "music": [
       "Classical"
     ],
     "movies": [
-      "Action"
+      "Sci-fi"
     ],
     "personality": "Ambivert",
-    "bio": "Music and movies are my escape"
+    "bio": "Always curious and eager to learn",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
   },
   {
     "id": 4,
     "skills": [
       "Python",
-      "Web Dev"
+      "C++"
     ],
     "interests": [
       "Music",
-      "Art"
+      "Poetry"
     ],
     "music": [
       "Lo-fi"
     ],
     "movies": [
-      "Action"
+      "Thriller"
     ],
     "personality": "Introvert",
-    "bio": "I enjoy deep conversations and ideas"
+    "bio": "Always curious and eager to learn",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 5,
-    "skills": [
-      "DSA",
-      "C++"
-    ],
-    "interests": [
-      "Gaming",
-      "Movies"
-    ],
-    "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Ambivert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 6,
-    "skills": [
-      "ML",
-      "DSA"
-    ],
-    "interests": [
-      "Movies",
-      "Poetry"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Introvert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 7,
-    "skills": [
-      "Design",
-      "Data Science"
-    ],
-    "interests": [
-      "Movies",
-      "Art"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Ambivert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 8,
-    "skills": [
-      "ML",
-      "Python"
-    ],
-    "interests": [
-      "Poetry",
-      "Gaming"
-    ],
-    "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 9,
-    "skills": [
-      "ML",
-      "Data Science"
-    ],
-    "interests": [
-      "Gaming",
-      "Poetry"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Extrovert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 10,
-    "skills": [
-      "Python",
-      "Java"
-    ],
-    "interests": [
-      "Art",
-      "Sports"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 11,
-    "skills": [
-      "Java",
-      "C++"
-    ],
-    "interests": [
-      "Movies",
-      "Music"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Extrovert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 12,
-    "skills": [
-      "DSA",
-      "Python"
-    ],
-    "interests": [
-      "Sports",
-      "Art"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 13,
-    "skills": [
-      "Java",
-      "Data Science"
-    ],
-    "interests": [
-      "Music",
-      "Art"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Ambivert",
-    "bio": "Tech enthusiast and startup dreamer"
-  },
-  {
-    "id": 14,
-    "skills": [
-      "Design",
-      "ML"
-    ],
-    "interests": [
-      "Poetry",
-      "Gaming"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Extrovert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 15,
-    "skills": [
-      "ML",
-      "Java"
-    ],
-    "interests": [
-      "Music",
-      "Poetry"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 16,
-    "skills": [
-      "C++",
-      "ML"
-    ],
-    "interests": [
-      "Sports",
-      "Art"
-    ],
-    "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Introvert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 17,
-    "skills": [
-      "DSA",
-      "Java"
-    ],
-    "interests": [
-      "Art",
-      "Sports"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Extrovert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 18,
     "skills": [
       "Web Dev",
       "DSA"
     ],
     "interests": [
-      "Art",
+      "Gaming",
+      "Poetry"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Extrovert",
+    "bio": "Creative thinker and problem solver",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 6,
+    "skills": [
+      "ML",
+      "Java"
+    ],
+    "interests": [
+      "Movies",
+      "Poetry"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Extrovert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 7,
+    "skills": [
+      "Java",
+      "C++"
+    ],
+    "interests": [
+      "Poetry",
+      "Sports"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Introvert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "1st",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 8,
+    "skills": [
+      "Java",
+      "DSA"
+    ],
+    "interests": [
+      "Poetry",
+      "Art"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Introvert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 9,
+    "skills": [
+      "Data Science",
+      "Web Dev"
+    ],
+    "interests": [
+      "Gaming",
       "Poetry"
     ],
     "music": [
       "Lo-fi"
     ],
     "movies": [
-      "Action"
+      "Comedy"
     ],
     "personality": "Ambivert",
-    "bio": "I love coding and exploring new technologies"
+    "bio": "I like writing poetry and reading books",
+    "year": "1st",
+    "goals": [
+      "Design"
+    ]
   },
   {
-    "id": 19,
+    "id": 10,
     "skills": [
-      "Data Science",
-      "ML"
+      "Python",
+      "C++"
     ],
     "interests": [
-      "Music",
-      "Gaming"
+      "Poetry",
+      "Sports"
     ],
     "music": [
-      "Bollywood"
+      "Rock"
     ],
     "movies": [
       "Action"
     ],
     "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
+    "bio": "Always curious and eager to learn",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
-    "id": 20,
+    "id": 11,
     "skills": [
-      "Data Science",
-      "DSA"
+      "Design",
+      "Python"
     ],
     "interests": [
-      "Art",
-      "Movies"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Ambivert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 21,
-    "skills": [
-      "Data Science",
-      "DSA"
-    ],
-    "interests": [
-      "Poetry",
-      "Music"
+      "Sports",
+      "Art"
     ],
     "music": [
       "Lo-fi"
@@ -396,35 +246,20 @@
       "Thriller"
     ],
     "personality": "Extrovert",
-    "bio": "I love coding and exploring new technologies"
+    "bio": "Music and movies are my escape",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
   },
   {
-    "id": 22,
+    "id": 12,
     "skills": [
-      "DSA",
-      "Data Science"
+      "C++",
+      "ML"
     ],
     "interests": [
       "Poetry",
-      "Music"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Introvert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 23,
-    "skills": [
-      "Design",
-      "Python"
-    ],
-    "interests": [
-      "Sports",
       "Gaming"
     ],
     "music": [
@@ -434,13 +269,178 @@
       "Sci-fi"
     ],
     "personality": "Ambivert",
-    "bio": "I like writing poetry and reading books"
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
   },
   {
-    "id": 24,
+    "id": 13,
     "skills": [
       "Python",
       "DSA"
+    ],
+    "interests": [
+      "Art",
+      "Sports"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 14,
+    "skills": [
+      "Data Science",
+      "Design"
+    ],
+    "interests": [
+      "Gaming",
+      "Movies"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 15,
+    "skills": [
+      "Java",
+      "Web Dev"
+    ],
+    "interests": [
+      "Art",
+      "Gaming"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Extrovert",
+    "bio": "I like writing poetry and reading books",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 16,
+    "skills": [
+      "Web Dev",
+      "ML"
+    ],
+    "interests": [
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Extrovert",
+    "bio": "Passionate about learning and building projects",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 17,
+    "skills": [
+      "ML",
+      "Design"
+    ],
+    "interests": [
+      "Movies",
+      "Music"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Ambivert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 18,
+    "skills": [
+      "DSA",
+      "Python"
+    ],
+    "interests": [
+      "Sports",
+      "Art"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Ambivert",
+    "bio": "Music and movies are my escape",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 19,
+    "skills": [
+      "ML",
+      "Python"
+    ],
+    "interests": [
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Extrovert",
+    "bio": "Music and movies are my escape",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 20,
+    "skills": [
+      "Data Science",
+      "ML"
     ],
     "interests": [
       "Music",
@@ -450,20 +450,93 @@
       "Lo-fi"
     ],
     "movies": [
-      "Thriller"
+      "Action"
     ],
-    "personality": "Ambivert",
-    "bio": "I enjoy deep conversations and ideas"
+    "personality": "Extrovert",
+    "bio": "Creative thinker and problem solver",
+    "year": "4th",
+    "goals": [
+      "ML"
+    ]
   },
   {
-    "id": 25,
+    "id": 21,
     "skills": [
-      "C++",
-      "Design"
+      "Design",
+      "Data Science"
     ],
     "interests": [
-      "Music",
+      "Poetry",
       "Sports"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Extrovert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "4th",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 22,
+    "skills": [
+      "Data Science",
+      "Java"
+    ],
+    "interests": [
+      "Movies",
+      "Poetry"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Extrovert",
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 23,
+    "skills": [
+      "Data Science",
+      "Python"
+    ],
+    "interests": [
+      "Movies",
+      "Art"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Extrovert",
+    "bio": "I like writing poetry and reading books",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 24,
+    "skills": [
+      "ML",
+      "Data Science"
+    ],
+    "interests": [
+      "Gaming",
+      "Art"
     ],
     "music": [
       "Bollywood"
@@ -472,7 +545,34 @@
       "Thriller"
     ],
     "personality": "Extrovert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 25,
+    "skills": [
+      "Data Science",
+      "Java"
+    ],
+    "interests": [
+      "Art",
+      "Music"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Introvert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
   },
   {
     "id": 26,
@@ -482,155 +582,118 @@
     ],
     "interests": [
       "Sports",
-      "Poetry"
+      "Art"
     ],
     "music": [
       "Bollywood"
     ],
     "movies": [
-      "Thriller"
+      "Action"
     ],
-    "personality": "Extrovert",
-    "bio": "Creative thinker and problem solver"
+    "personality": "Introvert",
+    "bio": "Creative thinker and problem solver",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
   },
   {
     "id": 27,
     "skills": [
-      "C++",
-      "DSA"
+      "Design",
+      "Java"
     ],
     "interests": [
-      "Poetry",
-      "Gaming"
+      "Music",
+      "Poetry"
     ],
     "music": [
-      "Pop"
+      "Classical"
     ],
     "movies": [
-      "Thriller"
+      "Action"
     ],
-    "personality": "Introvert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "personality": "Extrovert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "4th",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
     "id": 28,
     "skills": [
-      "Data Science",
-      "Java"
+      "Java",
+      "Design"
     ],
     "interests": [
       "Music",
-      "Sports"
+      "Poetry"
     ],
     "music": [
-      "Classical"
+      "Lo-fi"
     ],
     "movies": [
       "Thriller"
     ],
-    "personality": "Extrovert",
-    "bio": "I love coding and exploring new technologies"
+    "personality": "Introvert",
+    "bio": "Creative thinker and problem solver",
+    "year": "1st",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 29,
     "skills": [
-      "Data Science",
-      "C++"
+      "ML",
+      "Design"
     ],
     "interests": [
-      "Gaming",
-      "Sports"
+      "Music",
+      "Gaming"
     ],
     "music": [
       "Bollywood"
     ],
     "movies": [
-      "Thriller"
+      "Action"
     ],
     "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 30,
     "skills": [
-      "Web Dev",
-      "Data Science"
-    ],
-    "interests": [
-      "Movies",
-      "Sports"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Ambivert",
-    "bio": "I enjoy deep conversations and ideas"
-  },
-  {
-    "id": 31,
-    "skills": [
-      "ML",
-      "C++"
-    ],
-    "interests": [
-      "Art",
-      "Poetry"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Extrovert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 32,
-    "skills": [
       "Design",
-      "C++"
+      "DSA"
     ],
     "interests": [
-      "Music",
-      "Poetry"
+      "Sports",
+      "Music"
     ],
     "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Ambivert",
-    "bio": "Tech enthusiast and startup dreamer"
-  },
-  {
-    "id": 33,
-    "skills": [
-      "C++",
-      "Java"
-    ],
-    "interests": [
-      "Art",
-      "Gaming"
-    ],
-    "music": [
-      "Lo-fi"
+      "Classical"
     ],
     "movies": [
       "Action"
     ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
+    "personality": "Extrovert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
   },
   {
-    "id": 34,
+    "id": 31,
     "skills": [
-      "Design",
-      "Web Dev"
+      "C++",
+      "Python"
     ],
     "interests": [
       "Movies",
@@ -640,20 +703,254 @@
       "Pop"
     ],
     "movies": [
-      "Sci-fi"
+      "Action"
     ],
     "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
+    "bio": "I like writing poetry and reading books",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
-    "id": 35,
+    "id": 32,
     "skills": [
-      "Web Dev",
-      "Design"
+      "DSA",
+      "Web Dev"
+    ],
+    "interests": [
+      "Gaming",
+      "Art"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 33,
+    "skills": [
+      "Python",
+      "DSA"
     ],
     "interests": [
       "Movies",
       "Art"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 34,
+    "skills": [
+      "Java",
+      "Python"
+    ],
+    "interests": [
+      "Gaming",
+      "Movies"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 35,
+    "skills": [
+      "Python",
+      "C++"
+    ],
+    "interests": [
+      "Gaming",
+      "Music"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Extrovert",
+    "bio": "Creative thinker and problem solver",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 36,
+    "skills": [
+      "ML",
+      "Java"
+    ],
+    "interests": [
+      "Movies",
+      "Art"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 37,
+    "skills": [
+      "Java",
+      "DSA"
+    ],
+    "interests": [
+      "Gaming",
+      "Music"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Extrovert",
+    "bio": "Passionate about learning and building projects",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 38,
+    "skills": [
+      "Web Dev",
+      "Data Science"
+    ],
+    "interests": [
+      "Art",
+      "Gaming"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Extrovert",
+    "bio": "I like writing poetry and reading books",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 39,
+    "skills": [
+      "Data Science",
+      "Design"
+    ],
+    "interests": [
+      "Music",
+      "Poetry"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "1st",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 40,
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "interests": [
+      "Music",
+      "Gaming"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Extrovert",
+    "bio": "Always curious and eager to learn",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 41,
+    "skills": [
+      "Java",
+      "DSA"
+    ],
+    "interests": [
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Extrovert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "2nd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 42,
+    "skills": [
+      "DSA",
+      "Web Dev"
+    ],
+    "interests": [
+      "Sports",
+      "Gaming"
     ],
     "music": [
       "Rock"
@@ -661,14 +958,156 @@
     "movies": [
       "Comedy"
     ],
-    "personality": "Ambivert",
-    "bio": "Music and movies are my escape"
+    "personality": "Introvert",
+    "bio": "Music and movies are my escape",
+    "year": "4th",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
-    "id": 36,
+    "id": 43,
     "skills": [
-      "Python",
-      "Data Science"
+      "Design",
+      "ML"
+    ],
+    "interests": [
+      "Sports",
+      "Music"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Ambivert",
+    "bio": "Always curious and eager to learn",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 44,
+    "skills": [
+      "Design",
+      "Web Dev"
+    ],
+    "interests": [
+      "Movies",
+      "Music"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Ambivert",
+    "bio": "Passionate about learning and building projects",
+    "year": "2nd",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 45,
+    "skills": [
+      "ML",
+      "Web Dev"
+    ],
+    "interests": [
+      "Poetry",
+      "Music"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Introvert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 46,
+    "skills": [
+      "DSA",
+      "Java"
+    ],
+    "interests": [
+      "Movies",
+      "Poetry"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Introvert",
+    "bio": "Always curious and eager to learn",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 47,
+    "skills": [
+      "C++",
+      "Web Dev"
+    ],
+    "interests": [
+      "Sports",
+      "Gaming"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Introvert",
+    "bio": "Always curious and eager to learn",
+    "year": "1st",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 48,
+    "skills": [
+      "Java",
+      "DSA"
+    ],
+    "interests": [
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Extrovert",
+    "bio": "Passionate about learning and building projects",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 49,
+    "skills": [
+      "Web Dev",
+      "Python"
     ],
     "interests": [
       "Gaming",
@@ -678,453 +1117,112 @@
       "Pop"
     ],
     "movies": [
-      "Romance"
-    ],
-    "personality": "Extrovert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 37,
-    "skills": [
-      "ML",
-      "C++"
-    ],
-    "interests": [
-      "Sports",
-      "Music"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Extrovert",
-    "bio": "I enjoy deep conversations and ideas"
-  },
-  {
-    "id": 38,
-    "skills": [
-      "Java",
-      "Web Dev"
-    ],
-    "interests": [
-      "Music",
-      "Movies"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Introvert",
-    "bio": "Tech enthusiast and startup dreamer"
-  },
-  {
-    "id": 39,
-    "skills": [
-      "Design",
-      "Data Science"
-    ],
-    "interests": [
-      "Movies",
-      "Sports"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Extrovert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 40,
-    "skills": [
-      "DSA",
-      "Design"
-    ],
-    "interests": [
-      "Movies",
-      "Sports"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Extrovert",
-    "bio": "I love coding and exploring new technologies"
-  },
-  {
-    "id": 41,
-    "skills": [
-      "Web Dev",
-      "Python"
-    ],
-    "interests": [
-      "Art",
-      "Poetry"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Ambivert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 42,
-    "skills": [
-      "Java",
-      "Python"
-    ],
-    "interests": [
-      "Sports",
-      "Art"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 43,
-    "skills": [
-      "C++",
-      "Design"
-    ],
-    "interests": [
-      "Music",
-      "Movies"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
       "Sci-fi"
     ],
-    "personality": "Extrovert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "personality": "Introvert",
+    "bio": "Always curious and eager to learn",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
   },
   {
-    "id": 44,
+    "id": 50,
     "skills": [
       "Data Science",
       "Design"
     ],
     "interests": [
-      "Poetry",
-      "Gaming"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Extrovert",
-    "bio": "Creative thinker and problem solver"
-  },
-  {
-    "id": 45,
-    "skills": [
-      "Web Dev",
-      "DSA"
-    ],
-    "interests": [
-      "Poetry",
-      "Movies"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Introvert",
-    "bio": "I love coding and exploring new technologies"
-  },
-  {
-    "id": 46,
-    "skills": [
-      "Web Dev",
-      "C++"
-    ],
-    "interests": [
-      "Art",
-      "Poetry"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Ambivert",
-    "bio": "I love coding and exploring new technologies"
-  },
-  {
-    "id": 47,
-    "skills": [
-      "DSA",
-      "Java"
-    ],
-    "interests": [
-      "Poetry",
-      "Movies"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Sci-fi"
-    ],
-    "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 48,
-    "skills": [
-      "ML",
-      "Web Dev"
-    ],
-    "interests": [
-      "Poetry",
-      "Music"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Extrovert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 49,
-    "skills": [
-      "ML",
-      "C++"
-    ],
-    "interests": [
       "Music",
       "Movies"
     ],
     "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Ambivert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 50,
-    "skills": [
-      "Java",
-      "DSA"
-    ],
-    "interests": [
-      "Poetry",
-      "Art"
-    ],
-    "music": [
       "Bollywood"
     ],
     "movies": [
-      "Romance"
+      "Sci-fi"
     ],
-    "personality": "Ambivert",
-    "bio": "Creative thinker and problem solver"
+    "personality": "Introvert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
     "id": 51,
     "skills": [
       "Java",
+      "Design"
+    ],
+    "interests": [
+      "Art",
+      "Music"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Introvert",
+    "bio": "Music and movies are my escape",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 52,
+    "skills": [
+      "C++",
       "DSA"
     ],
     "interests": [
-      "Poetry",
-      "Movies"
+      "Movies",
+      "Sports"
     ],
     "music": [
       "Classical"
     ],
     "movies": [
-      "Romance"
+      "Sci-fi"
     ],
-    "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 52,
-    "skills": [
-      "Python",
-      "DSA"
-    ],
-    "interests": [
-      "Movies",
-      "Art"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
+    "personality": "Ambivert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
   },
   {
     "id": 53,
     "skills": [
-      "Java",
-      "Python"
+      "ML",
+      "Web Dev"
     ],
     "interests": [
-      "Music",
-      "Movies"
+      "Art",
+      "Sports"
     ],
     "music": [
       "Bollywood"
     ],
     "movies": [
-      "Romance"
+      "Comedy"
     ],
     "personality": "Extrovert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "bio": "Music and movies are my escape",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 54,
     "skills": [
       "ML",
-      "Python"
-    ],
-    "interests": [
-      "Art",
-      "Movies"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Ambivert",
-    "bio": "Tech enthusiast and startup dreamer"
-  },
-  {
-    "id": 55,
-    "skills": [
-      "Design",
-      "Python"
-    ],
-    "interests": [
-      "Art",
-      "Movies"
-    ],
-    "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Ambivert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 56,
-    "skills": [
-      "Python",
-      "Data Science"
-    ],
-    "interests": [
-      "Gaming",
-      "Movies"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Introvert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 57,
-    "skills": [
-      "Data Science",
-      "DSA"
-    ],
-    "interests": [
-      "Gaming",
-      "Sports"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Extrovert",
-    "bio": "I love coding and exploring new technologies"
-  },
-  {
-    "id": 58,
-    "skills": [
-      "Python",
-      "DSA"
-    ],
-    "interests": [
-      "Music",
-      "Movies"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Extrovert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 59,
-    "skills": [
-      "C++",
-      "Python"
-    ],
-    "interests": [
-      "Movies",
-      "Music"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 60,
-    "skills": [
-      "ML",
-      "Design"
+      "C++"
     ],
     "interests": [
       "Sports",
@@ -1134,16 +1232,135 @@
       "Pop"
     ],
     "movies": [
+      "Action"
+    ],
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "1st",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 55,
+    "skills": [
+      "DSA",
+      "Java"
+    ],
+    "interests": [
+      "Music",
+      "Poetry"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Extrovert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 56,
+    "skills": [
+      "Python",
+      "Web Dev"
+    ],
+    "interests": [
+      "Sports",
+      "Movies"
+    ],
+    "music": [
+      "Pop"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Introvert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 57,
+    "skills": [
+      "ML",
+      "Python"
+    ],
+    "interests": [
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Introvert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "2nd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 58,
+    "skills": [
+      "Web Dev",
+      "ML"
+    ],
+    "interests": [
+      "Sports",
+      "Movies"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Extrovert",
+    "bio": "Creative thinker and problem solver",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 59,
+    "skills": [
+      "C++",
+      "ML"
+    ],
+    "interests": [
+      "Art",
+      "Gaming"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
       "Comedy"
     ],
     "personality": "Extrovert",
-    "bio": "Creative thinker and problem solver"
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
   },
   {
-    "id": 61,
+    "id": 60,
     "skills": [
-      "Data Science",
-      "DSA"
+      "DSA",
+      "Python"
     ],
     "interests": [
       "Gaming",
@@ -1153,229 +1370,300 @@
       "Lo-fi"
     ],
     "movies": [
-      "Romance"
-    ],
-    "personality": "Ambivert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 62,
-    "skills": [
-      "ML",
-      "Java"
-    ],
-    "interests": [
-      "Movies",
-      "Music"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
       "Action"
     ],
-    "personality": "Ambivert",
-    "bio": "Passionate about learning and building projects"
+    "personality": "Introvert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "Web Dev"
+    ]
   },
   {
-    "id": 63,
-    "skills": [
-      "Java",
-      "Python"
-    ],
-    "interests": [
-      "Poetry",
-      "Gaming"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Extrovert",
-    "bio": "Music and movies are my escape"
-  },
-  {
-    "id": 64,
+    "id": 61,
     "skills": [
       "Design",
       "Web Dev"
     ],
     "interests": [
-      "Art",
-      "Music"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Ambivert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 65,
-    "skills": [
-      "ML",
-      "C++"
-    ],
-    "interests": [
       "Music",
-      "Sports"
+      "Movies"
     ],
     "music": [
-      "Pop"
+      "Classical"
     ],
     "movies": [
-      "Comedy"
+      "Romance"
     ],
     "personality": "Introvert",
-    "bio": "I enjoy deep conversations and ideas"
+    "bio": "I like writing poetry and reading books",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
   },
   {
-    "id": 66,
+    "id": 62,
     "skills": [
-      "C++",
-      "Web Dev"
+      "DSA",
+      "Data Science"
     ],
     "interests": [
-      "Music",
+      "Poetry",
       "Art"
     ],
     "music": [
       "Lo-fi"
     ],
     "movies": [
-      "Romance"
+      "Action"
     ],
     "personality": "Introvert",
-    "bio": "Music and movies are my escape"
+    "bio": "Music and movies are my escape",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 63,
+    "skills": [
+      "ML",
+      "DSA"
+    ],
+    "interests": [
+      "Poetry",
+      "Gaming"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "1st",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 64,
+    "skills": [
+      "Web Dev",
+      "C++"
+    ],
+    "interests": [
+      "Gaming",
+      "Music"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Ambivert",
+    "bio": "Always curious and eager to learn",
+    "year": "1st",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 65,
+    "skills": [
+      "ML",
+      "DSA"
+    ],
+    "interests": [
+      "Gaming",
+      "Music"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Introvert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 66,
+    "skills": [
+      "Web Dev",
+      "Design"
+    ],
+    "interests": [
+      "Gaming",
+      "Poetry"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Ambivert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
     "id": 67,
     "skills": [
-      "Web Dev",
-      "Python"
+      "C++",
+      "ML"
     ],
     "interests": [
       "Art",
-      "Poetry"
+      "Gaming"
     ],
     "music": [
       "Rock"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Extrovert",
+    "bio": "Creative thinker and problem solver",
+    "year": "2nd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 68,
+    "skills": [
+      "DSA",
+      "ML"
+    ],
+    "interests": [
+      "Gaming",
+      "Poetry"
+    ],
+    "music": [
+      "Lo-fi"
     ],
     "movies": [
       "Romance"
     ],
     "personality": "Ambivert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 68,
-    "skills": [
-      "C++",
-      "DSA"
-    ],
-    "interests": [
-      "Art",
-      "Gaming"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Introvert",
-    "bio": "I enjoy deep conversations and ideas"
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
   },
   {
     "id": 69,
     "skills": [
-      "Design",
-      "Web Dev"
+      "Java",
+      "Design"
     ],
     "interests": [
-      "Poetry",
-      "Sports"
+      "Sports",
+      "Art"
     ],
     "music": [
-      "Pop"
+      "Classical"
     ],
     "movies": [
-      "Action"
+      "Thriller"
     ],
-    "personality": "Introvert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "personality": "Ambivert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 70,
     "skills": [
-      "Data Science",
+      "DSA",
+      "Web Dev"
+    ],
+    "interests": [
+      "Movies",
+      "Music"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Introvert",
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "4th",
+    "goals": [
       "Design"
+    ]
+  },
+  {
+    "id": 71,
+    "skills": [
+      "Java",
+      "ML"
     ],
     "interests": [
       "Music",
-      "Poetry"
+      "Movies"
     ],
     "music": [
       "Rock"
     ],
     "movies": [
-      "Thriller"
+      "Sci-fi"
     ],
     "personality": "Introvert",
-    "bio": "Tech enthusiast and startup dreamer"
-  },
-  {
-    "id": 71,
-    "skills": [
-      "Design",
-      "Web Dev"
-    ],
-    "interests": [
-      "Music",
-      "Poetry"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Introvert",
-    "bio": "I like writing poetry and reading books"
+    "bio": "Music and movies are my escape",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
   },
   {
     "id": 72,
     "skills": [
-      "Python",
-      "Data Science"
+      "Design",
+      "DSA"
     ],
     "interests": [
-      "Art",
-      "Gaming"
+      "Sports",
+      "Music"
     ],
     "music": [
-      "Lo-fi"
+      "Pop"
     ],
     "movies": [
-      "Action"
+      "Comedy"
     ],
-    "personality": "Ambivert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "personality": "Extrovert",
+    "bio": "Always curious and eager to learn",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
   },
   {
     "id": 73,
     "skills": [
-      "DSA",
-      "C++"
+      "Web Dev",
+      "DSA"
     ],
     "interests": [
-      "Sports",
-      "Gaming"
+      "Poetry",
+      "Sports"
     ],
     "music": [
       "Bollywood"
@@ -1383,14 +1671,41 @@
     "movies": [
       "Comedy"
     ],
-    "personality": "Extrovert",
-    "bio": "I love coding and exploring new technologies"
+    "personality": "Introvert",
+    "bio": "Music and movies are my escape",
+    "year": "1st",
+    "goals": [
+      "Web Dev"
+    ]
   },
   {
     "id": 74,
     "skills": [
-      "Java",
-      "Web Dev"
+      "C++",
+      "Java"
+    ],
+    "interests": [
+      "Poetry",
+      "Art"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 75,
+    "skills": [
+      "Python",
+      "DSA"
     ],
     "interests": [
       "Gaming",
@@ -1403,36 +1718,113 @@
       "Thriller"
     ],
     "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 75,
-    "skills": [
-      "Python",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "3rd",
+    "goals": [
       "Web Dev"
-    ],
-    "interests": [
-      "Art",
-      "Movies"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Extrovert",
-    "bio": "I enjoy deep conversations and ideas"
+    ]
   },
   {
     "id": 76,
     "skills": [
-      "Data Science",
-      "Python"
+      "Python",
+      "Design"
     ],
     "interests": [
-      "Art",
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Ambivert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 77,
+    "skills": [
+      "ML",
+      "Data Science"
+    ],
+    "interests": [
+      "Gaming",
+      "Music"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Ambivert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "2nd",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 78,
+    "skills": [
+      "Data Science",
+      "Design"
+    ],
+    "interests": [
+      "Music",
+      "Gaming"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Introvert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "4th",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 79,
+    "skills": [
+      "Web Dev",
+      "ML"
+    ],
+    "interests": [
+      "Gaming",
       "Poetry"
+    ],
+    "music": [
+      "Bollywood"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Introvert",
+    "bio": "Passionate about learning and building projects",
+    "year": "1st",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 80,
+    "skills": [
+      "Data Science",
+      "Web Dev"
+    ],
+    "interests": [
+      "Music",
+      "Movies"
     ],
     "music": [
       "Bollywood"
@@ -1440,302 +1832,274 @@
     "movies": [
       "Sci-fi"
     ],
-    "personality": "Ambivert",
-    "bio": "Creative thinker and problem solver"
-  },
-  {
-    "id": 77,
-    "skills": [
-      "Data Science",
-      "DSA"
-    ],
-    "interests": [
-      "Poetry",
-      "Sports"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Introvert",
-    "bio": "Creative thinker and problem solver"
-  },
-  {
-    "id": 78,
-    "skills": [
-      "C++",
-      "Python"
-    ],
-    "interests": [
-      "Sports",
-      "Music"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Comedy"
-    ],
     "personality": "Extrovert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 79,
-    "skills": [
-      "ML",
-      "Python"
-    ],
-    "interests": [
-      "Movies",
-      "Sports"
-    ],
-    "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Extrovert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 80,
-    "skills": [
-      "Web Dev",
-      "Python"
-    ],
-    "interests": [
-      "Gaming",
-      "Movies"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Ambivert",
-    "bio": "Music and movies are my escape"
+    "bio": "Creative thinker and problem solver",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 81,
     "skills": [
-      "Java",
-      "Web Dev"
-    ],
-    "interests": [
-      "Gaming",
-      "Movies"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Thriller"
-    ],
-    "personality": "Introvert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 82,
-    "skills": [
-      "DSA",
-      "C++"
-    ],
-    "interests": [
-      "Movies",
-      "Music"
-    ],
-    "music": [
-      "Rock"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Ambivert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 83,
-    "skills": [
       "Data Science",
-      "Web Dev"
+      "Java"
     ],
     "interests": [
-      "Movies",
-      "Sports"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Ambivert",
-    "bio": "I enjoy deep conversations and ideas"
-  },
-  {
-    "id": 84,
-    "skills": [
-      "Web Dev",
-      "Design"
-    ],
-    "interests": [
-      "Gaming",
-      "Art"
-    ],
-    "music": [
-      "Pop"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Ambivert",
-    "bio": "I like writing poetry and reading books"
-  },
-  {
-    "id": 85,
-    "skills": [
-      "Python",
-      "Web Dev"
-    ],
-    "interests": [
-      "Poetry",
-      "Art"
+      "Sports",
+      "Poetry"
     ],
     "music": [
       "Bollywood"
     ],
     "movies": [
-      "Thriller"
+      "Romance"
     ],
-    "personality": "Extrovert",
-    "bio": "I enjoy deep conversations and ideas"
+    "personality": "Ambivert",
+    "bio": "Always curious and eager to learn",
+    "year": "4th",
+    "goals": [
+      "ML"
+    ]
   },
   {
-    "id": 86,
+    "id": 82,
     "skills": [
-      "C++",
-      "Python"
+      "DSA",
+      "Data Science"
     ],
     "interests": [
-      "Sports",
-      "Music"
+      "Music",
+      "Sports"
     ],
     "music": [
       "Pop"
     ],
     "movies": [
-      "Romance"
+      "Sci-fi"
     ],
-    "personality": "Introvert",
-    "bio": "Creative thinker and problem solver"
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "1st",
+    "goals": [
+      "Data Science"
+    ]
   },
   {
-    "id": 87,
+    "id": 83,
     "skills": [
-      "Design",
-      "Web Dev"
+      "ML",
+      "DSA"
     ],
     "interests": [
-      "Movies",
+      "Poetry",
       "Gaming"
     ],
     "music": [
       "Lo-fi"
     ],
     "movies": [
-      "Comedy"
+      "Romance"
     ],
     "personality": "Extrovert",
-    "bio": "I like writing poetry and reading books"
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "1st",
+    "goals": [
+      "ML"
+    ]
   },
   {
-    "id": 88,
+    "id": 84,
     "skills": [
       "DSA",
-      "ML"
+      "Design"
     ],
     "interests": [
-      "Poetry",
-      "Art"
+      "Gaming",
+      "Poetry"
     ],
     "music": [
       "Pop"
     ],
     "movies": [
-      "Romance"
+      "Action"
     ],
-    "personality": "Introvert",
-    "bio": "I enjoy deep conversations and ideas"
+    "personality": "Extrovert",
+    "bio": "Always curious and eager to learn",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
   },
   {
-    "id": 89,
+    "id": 85,
     "skills": [
       "ML",
-      "DSA"
+      "Web Dev"
     ],
     "interests": [
-      "Gaming",
-      "Music"
+      "Art",
+      "Poetry"
     ],
     "music": [
       "Classical"
     ],
     "movies": [
-      "Romance"
+      "Thriller"
     ],
-    "personality": "Extrovert",
-    "bio": "Tech enthusiast and startup dreamer"
+    "personality": "Ambivert",
+    "bio": "I love coding and exploring new technologies",
+    "year": "3rd",
+    "goals": [
+      "Web Dev"
+    ]
   },
   {
-    "id": 90,
+    "id": 86,
     "skills": [
-      "ML",
-      "Java"
+      "Web Dev",
+      "Python"
     ],
     "interests": [
-      "Sports",
-      "Art"
+      "Poetry",
+      "Sports"
     ],
     "music": [
-      "Lo-fi"
+      "Pop"
     ],
     "movies": [
-      "Romance"
+      "Sci-fi"
     ],
     "personality": "Extrovert",
-    "bio": "I enjoy deep conversations and ideas"
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
   },
   {
-    "id": 91,
+    "id": 87,
+    "skills": [
+      "ML",
+      "Data Science"
+    ],
+    "interests": [
+      "Music",
+      "Gaming"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Extrovert",
+    "bio": "Always curious and eager to learn",
+    "year": "1st",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 88,
     "skills": [
       "Design",
-      "DSA"
+      "C++"
     ],
     "interests": [
       "Art",
       "Sports"
     ],
     "music": [
-      "Bollywood"
+      "Lo-fi"
     ],
     "movies": [
       "Action"
     ],
-    "personality": "Extrovert",
-    "bio": "I love coding and exploring new technologies"
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "2nd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 89,
+    "skills": [
+      "Java",
+      "C++"
+    ],
+    "interests": [
+      "Gaming",
+      "Movies"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Action"
+    ],
+    "personality": "Introvert",
+    "bio": "Creative thinker and problem solver",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 90,
+    "skills": [
+      "Python",
+      "Design"
+    ],
+    "interests": [
+      "Sports",
+      "Music"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Sci-fi"
+    ],
+    "personality": "Ambivert",
+    "bio": "Always curious and eager to learn",
+    "year": "2nd",
+    "goals": [
+      "Design"
+    ]
+  },
+  {
+    "id": 91,
+    "skills": [
+      "Java",
+      "Design"
+    ],
+    "interests": [
+      "Music",
+      "Sports"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 92,
     "skills": [
-      "Web Dev",
+      "DSA",
       "Design"
     ],
     "interests": [
-      "Art",
+      "Movies",
       "Sports"
     ],
     "music": [
@@ -1745,31 +2109,177 @@
       "Comedy"
     ],
     "personality": "Ambivert",
-    "bio": "I like writing poetry and reading books"
+    "bio": "I love coding and exploring new technologies",
+    "year": "4th",
+    "goals": [
+      "Design"
+    ]
   },
   {
     "id": 93,
     "skills": [
-      "Design",
-      "ML"
+      "Java",
+      "Python"
     ],
     "interests": [
-      "Movies",
+      "Art",
+      "Sports"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Introvert",
+    "bio": "I like writing poetry and reading books",
+    "year": "4th",
+    "goals": [
+      "Web Dev"
+    ]
+  },
+  {
+    "id": 94,
+    "skills": [
+      "Python",
+      "Web Dev"
+    ],
+    "interests": [
+      "Gaming",
+      "Movies"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Romance"
+    ],
+    "personality": "Ambivert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "1st",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 95,
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "interests": [
+      "Music",
+      "Gaming"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Ambivert",
+    "bio": "Creative thinker and problem solver",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 96,
+    "skills": [
+      "Web Dev",
+      "Data Science"
+    ],
+    "interests": [
+      "Poetry",
+      "Art"
+    ],
+    "music": [
+      "Rock"
+    ],
+    "movies": [
+      "Thriller"
+    ],
+    "personality": "Ambivert",
+    "bio": "I enjoy deep conversations and ideas",
+    "year": "2nd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 97,
+    "skills": [
+      "C++",
+      "Design"
+    ],
+    "interests": [
+      "Poetry",
+      "Movies"
+    ],
+    "music": [
+      "Classical"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Extrovert",
+    "bio": "Passionate about learning and building projects",
+    "year": "2nd",
+    "goals": [
+      "ML"
+    ]
+  },
+  {
+    "id": 98,
+    "skills": [
+      "Design",
+      "Web Dev"
+    ],
+    "interests": [
+      "Poetry",
       "Music"
     ],
     "music": [
-      "Pop"
+      "Lo-fi"
     ],
     "movies": [
       "Action"
     ],
     "personality": "Extrovert",
-    "bio": "Creative thinker and problem solver"
+    "bio": "Always curious and eager to learn",
+    "year": "1st",
+    "goals": [
+      "ML"
+    ]
   },
   {
-    "id": 94,
+    "id": 99,
     "skills": [
-      "Data Science",
+      "Java",
+      "Design"
+    ],
+    "interests": [
+      "Sports",
+      "Movies"
+    ],
+    "music": [
+      "Lo-fi"
+    ],
+    "movies": [
+      "Comedy"
+    ],
+    "personality": "Introvert",
+    "bio": "Music and movies are my escape",
+    "year": "3rd",
+    "goals": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": 100,
+    "skills": [
+      "Java",
       "ML"
     ],
     "interests": [
@@ -1777,126 +2287,16 @@
       "Movies"
     ],
     "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Introvert",
-    "bio": "Always curious and eager to learn"
-  },
-  {
-    "id": 95,
-    "skills": [
-      "Data Science",
-      "C++"
-    ],
-    "interests": [
-      "Art",
-      "Poetry"
-    ],
-    "music": [
-      "Lo-fi"
-    ],
-    "movies": [
-      "Romance"
-    ],
-    "personality": "Introvert",
-    "bio": "I enjoy deep conversations and ideas"
-  },
-  {
-    "id": 96,
-    "skills": [
-      "Web Dev",
-      "Design"
-    ],
-    "interests": [
-      "Poetry",
-      "Movies"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Introvert",
-    "bio": "Tech enthusiast and startup dreamer"
-  },
-  {
-    "id": 97,
-    "skills": [
-      "Web Dev",
-      "Design"
-    ],
-    "interests": [
-      "Sports",
-      "Art"
-    ],
-    "music": [
-      "Lo-fi"
+      "Pop"
     ],
     "movies": [
       "Thriller"
     ],
     "personality": "Ambivert",
-    "bio": "I love coding and exploring new technologies"
-  },
-  {
-    "id": 98,
-    "skills": [
-      "Python",
-      "Java"
-    ],
-    "interests": [
-      "Movies",
-      "Art"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Introvert",
-    "bio": "Creative thinker and problem solver"
-  },
-  {
-    "id": 99,
-    "skills": [
-      "ML",
-      "DSA"
-    ],
-    "interests": [
-      "Poetry",
-      "Gaming"
-    ],
-    "music": [
-      "Classical"
-    ],
-    "movies": [
-      "Comedy"
-    ],
-    "personality": "Ambivert",
-    "bio": "Passionate about learning and building projects"
-  },
-  {
-    "id": 100,
-    "skills": [
-      "Design",
-      "Data Science"
-    ],
-    "interests": [
-      "Art",
-      "Poetry"
-    ],
-    "music": [
-      "Bollywood"
-    ],
-    "movies": [
-      "Action"
-    ],
-    "personality": "Introvert",
-    "bio": "I like writing poetry and reading books"
+    "bio": "Tech enthusiast and startup dreamer",
+    "year": "3rd",
+    "goals": [
+      "ML"
+    ]
   }
 ]
