@@ -3,6 +3,9 @@ from src.vectorize import vectorize
 from src.recommend import recommend
 from src.cluster import create_clusters
 from collections import defaultdict
+from src.analyze import find_isolated_students
+from src.explain import explain_match
+from src.icebreaker import generate_icebreaker
 
 # Load data
 data = load_data("data/students.json")
@@ -22,7 +25,12 @@ results = recommend(user_index, vectors)
 print("Recommended connections:\n")
 
 for idx, score in results:
+    explanation = explain_match(data[user_index], data[idx])
+    icebreaker = generate_icebreaker(data[user_index], data[idx])
+
     print(f"Student {data[idx]['id']} | Score: {score:.2f}")
+    print(f"→ {explanation}")
+    print(f"💬 Icebreaker: {icebreaker}\n")
 
 # ------------------ CLUSTERING ------------------
 
@@ -44,3 +52,12 @@ print("\nGrouped Clusters:\n")
 
 for cluster_id, members in cluster_groups.items():
     print(f"Cluster {cluster_id}: {members}")
+
+# ------------------ ISOLATION DETECTION ------------------
+
+isolated = find_isolated_students(vectors)
+
+print("\nIsolated Students:\n")
+
+for idx, score in isolated:
+    print(f"Student {data[idx]['id']} | Avg Similarity: {score:.2f}")    
