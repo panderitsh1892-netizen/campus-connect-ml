@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "skills": ["C++", "DSA"],
+    "interests": ["Music", "Movies"],
+    "music": ["Lo-fi"],
+    "movies": ["Sci-fi"],
+    "personality": "Introvert",
+    "bio": "I love coding and watching sci-fi movies"
+  },
+  {
+    "id": 2,
+    "skills": ["Python", "ML"],
+    "interests": ["Poetry", "Music"],
+    "music": ["Bollywood"],
+    "movies": ["Romance"],
+    "personality": "Extrovert",
+    "bio": "I enjoy writing poetry and exploring AI"
+  },
+  {
+    "id": 3,
+    "skills": ["Web Dev", "Design"],
+    "interests": ["Movies", "Art"],
+    "music": ["Rock"],
+    "movies": ["Thriller"],
+    "personality": "Ambivert",
+    "bio": "Creative designer and movie lover"
+  }
+]
