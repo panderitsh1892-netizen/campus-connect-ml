@@ -1,14 +1,16 @@
-from sklearn.metrics.pairwise import cosine_similarity
+from src.hybrid import hybrid_score
 
-def recommend(user_index, vectors, top_n=2):
-    similarity_matrix = cosine_similarity(vectors)
+def recommend(user_index, vectors, data, top_n=2):
+    scores = []
 
-    scores = list(enumerate(similarity_matrix[user_index]))
+    for i in range(len(vectors)):
+        if i == user_index:
+            continue
 
-    # sort by similarity
+        score = hybrid_score(vectors, data, user_index, i)
+        scores.append((i, score))
+
+    # sort by score descending
     scores = sorted(scores, key=lambda x: x[1], reverse=True)
 
-    # remove self
-    scores = scores[1:top_n+1]
-
-    return scores
+    return scores[:top_n]

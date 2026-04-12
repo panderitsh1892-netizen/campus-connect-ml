@@ -1,6 +1,7 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sentence_transformers import SentenceTransformer
+
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def vectorize(corpus):
-    vectorizer = TfidfVectorizer()
-    vectors = vectorizer.fit_transform(corpus)
+    vectors = model.encode(corpus)
     return vectors

@@ -1,7 +1,7 @@
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-def find_isolated_students(vectors, threshold=0.2):
+def find_isolated_students(vectors, threshold=0.5):
     similarity_matrix = cosine_similarity(vectors)
     
     isolated = []

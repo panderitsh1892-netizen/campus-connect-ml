@@ -1,7 +1,7 @@
 import networkx as nx
 from sklearn.metrics.pairwise import cosine_similarity
 
-def build_graph(vectors, threshold=0.5):
+def build_graph(vectors, threshold=0.75):
     G = nx.Graph()
     similarity_matrix = cosine_similarity(vectors)
 
